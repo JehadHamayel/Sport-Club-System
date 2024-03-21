@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<nttsks:AntTsk xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:nttsks="http://org.eclipse.fx.ide.jdt/1.0" buildDirectory="${project}/build">
+  <deploy>
+    <ppliction nme="DBProject"/>
+    <info/>
+  </deploy>
+  <signjr/>
+</nttsks:AntTsk>
